@@ -1,0 +1,56 @@
+.button {
+    width: 61px;
+    height: 61px;
+    border: none;
+    background-color: #181818;
+    color: white;
+    font-size: 10px;
+  }
+  .button:hover {
+    border: 1px solid red;
+    background-color: black;
+    color: red;
+  }
+  .button:focus {
+    border: 1px solid white;
+    background-color: black;
+    color: red;
+  }
+  .SideBarBlack {
+    background-color: #181818;
+  }
+  .SideBarRed {
+    background-color: red;
+  }
+  .Close {
+    background-color: #181818;
+    width: 31px;
+    height: 31px;
+    font-size: 20px;
+  }
+  .Close:hover {
+    background-color: black;
+    color: white;
+    border: none;
+  }
+  .Add {
+    background-color: red;
+    font-size: 20px;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px 0;
+  }
+  .Add:hover {
+    background-color: red;
+    color: white;
+  }
+  .Order {
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    background-color: red;
+  }
+  .Order:hover {
+    background-color: red;
+    color: white;
+  }

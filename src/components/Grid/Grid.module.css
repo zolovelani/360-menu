@@ -1,0 +1,9 @@
+.Grid {
+    display: grid;
+    gap: 12px;
+    grid-template-columns: 5% 64% 31%;
+    background-color:black;
+    color: white;
+    min-height: 100vh;
+
+}
